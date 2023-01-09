@@ -1,11 +1,14 @@
-<html>
-                              <head>
-                              
-                              
-                              
-                              
-                              </head>
-    <body>
-        <header>
-            <img src="https://i.ytimg.com/vi/zhjjEpF0grc/maxresdefault.jpg"
-        </header>
+body {
+        background-image: url(https://i.ytimg.com/vi/kT8_4KK_ox4/maxresdefault.jpg?7857057827);
+
+}
+header img {
+    width: 700px;
+    height: 350px;
+    margin-left: 100px;
+        
+}
+header{
+        background-color: black;
+
+}
